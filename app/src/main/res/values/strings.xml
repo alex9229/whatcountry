@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhatCountry</string>
+    <string name="ScanFiled">Scan failed do you want repeat?</string>
+    <string name="Rescan">ReScan</string>
+    <string name="read">Read</string>
+    <string name="QrCodeFor">"Qr code for "</string>
+    <string name="QrChange">Qr code change</string>
+    <string name="QrSave">Qr code save </string>
+    <string name="QrSavefor">save new Qr code for </string>
+    <string name="Qrfor">Qr for </string>
+    <string name="qrnotsave">Qr not save</string>
+    <string name="qrfor">Qr for </string>
+    <string name="wascancel"> was cancel</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="Exit">Exit</string>
+    <string name="ok">OK</string>
+    <string name="Back">BACK</string>
+    <string name="title_activity_qr_activity">Qr_activity</string>
+    <string name="HelloUser">Hello user</string>
+    <string name="Res">Result</string>
+    <string name="EnterText">Enter the text here</string>
+</resources>
